@@ -4,6 +4,9 @@
 💫 **About Me:**  
 I’m Pranshul – a full-stack developer who enjoys building robust backend systems, clean UI experiences, and production-ready blockchain applications. I love merging Web2 and Web3 to create scalable and secure tech solutions.
 
+💻 **Tech Stack**  
+TypeScript • Python • Solidity • Next.js • React • Tailwind CSS • Odoo • Node.js • PostgreSQL • MongoDB • Hardhat • Git • Zabbix • IPFS • Metamask  
+
 🛠️ **What I Do**  
 🔧 Build APIs using Python, Odoo & Node.js  
 🎨 Craft responsive UIs using Next.js, TypeScript & Tailwind CSS  
@@ -19,9 +22,6 @@ I’m Pranshul – a full-stack developer who enjoys building robust backend sys
 🌐 **Find Me On:**  
 [LinkedIn](https://www.linkedin.com/in/pranshulsharma123/) • [GitHub](https://github.com/Pranshulsh) • [LeetCode](https://leetcode.com/u/pranshul532/)  
 📫 **Email:** pranshul532@gmail.com
-
-💻 **Tech Stack**  
-TypeScript • Python • Solidity • Next.js • React • Tailwind CSS • Odoo • Node.js • PostgreSQL • MongoDB • Hardhat • Git • Zabbix • IPFS • Metamask  
 
 📊 **GitHub Stats** *(optional section with shields.io or GitHub Readme Stats)*  
 ![Pranshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
